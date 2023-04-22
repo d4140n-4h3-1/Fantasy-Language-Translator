@@ -5,5 +5,4 @@ Currently, it only translates up to two words a key. Outside of that, this file 
 
  
 
- 'adore':'', 'adored':'', 'adorable':'', 
- 'believe':'', 'believed':'', 'believable':'', 'belief':'', 'believer':'', 
+![alt text](Screenshot_2023-04-22_01-03-32.png)
